@@ -1,30 +1,52 @@
-# DelayCoach mobile app
+📌 Overview
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+DelayCoach는
+**“해야 할 일을 미루는 사용자”**를 대상으로
+짧고 직관적인 피드백을 통해 행동을 유도하는 코칭 앱이다.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/leesieuns-projects-d0b5e4f4/v0-delay-coach-mobile-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/kAWcQ6rkWq6)
+미루는 행동을 시각적으로 인식
 
-## Overview
+간단한 인터랙션 중심 UI
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+모바일 환경에 최적화된 UX
 
-## Deployment
+🚀 Live Demo
 
-Your project is live at:
+👉 서비스 바로가기
+https://vercel.com/leesieuns-projects-d0b5e4f4/v0-delay-coach-mobile-app
 
-**[https://vercel.com/leesieuns-projects-d0b5e4f4/v0-delay-coach-mobile-app](https://vercel.com/leesieuns-projects-d0b5e4f4/v0-delay-coach-mobile-app)**
+🧠 Tech Stack
 
-## Build your app
+Frontend: v0.app (React 기반 UI 생성)
 
-Continue building your app on:
+Deployment: Vercel
 
-**[https://v0.app/chat/kAWcQ6rkWq6](https://v0.app/chat/kAWcQ6rkWq6)**
+Design: v0 UI System
 
-## How It Works
+Version Sync: v0 ↔ GitHub 자동 연동
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+⚙ Key Features
+
+🕒 지연 행동(미루기) 인식 중심 UI
+
+💬 간단한 코칭 메시지 제공
+
+📱 모바일 퍼스트 디자인
+
+⚡ 빠른 배포 및 즉각적인 변경 반영
+
+🔄 Development Workflow
+
+v0.app에서 UI 및 기능 설계
+
+v0 인터페이스에서 배포
+
+변경 사항이 GitHub 저장소에 자동 반영
+
+Vercel을 통해 최신 버전 자동 배포
+
+✍ Notes
+
+이 프로젝트는
+빠른 프로토타이핑과 UX 실험을 목표로 제작되었으며,
+v0.app과 Vercel을 활용한 실서비스 배포 경험에 중점을 두었다.
